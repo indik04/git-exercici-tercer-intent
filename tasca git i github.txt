@@ -2,6 +2,9 @@
    <head>
    </head>
    <body>
+      <h1>això és una prova</h1>
       <p>hola mundo</p>
    </body>
    </html>
+
+Més proves aquests canvis els vull guardar a la carpeta màster
